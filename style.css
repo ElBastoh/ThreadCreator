@@ -1,0 +1,22 @@
+/* Hintergrundfarbe des gesamten Dokuments auf Petrol ändern */
+body {
+    background-color: #2C7A7B; /* Petrol-Farbcode */
+}
+
+/* Stil für die Textareas */
+.tweet-textarea {
+    width: 80%;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+/* Stil für die Schaltflächen */
+.copy-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: #007bff;
+    margin-left: 10px;
+}
